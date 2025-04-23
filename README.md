@@ -1,6 +1,6 @@
 # 슬기로운 대학생활(서비스 종료)
 
-|제목|내용|
+|||
 |------|---|
 |![default-이미지-0](https://github.com/user-attachments/assets/c793a16b-15cb-44a9-88ee-fb892111159e)|![default-이미지-1](https://github.com/user-attachments/assets/42ba4533-0d01-436b-86ce-b3cb29d30b06)|
 |![default-이미지-2](https://github.com/user-attachments/assets/102cd0b8-359a-4f81-a588-a16e838178c3)|![default-이미지-3](https://github.com/user-attachments/assets/87658096-e9ce-456d-b8f5-3eece9c3c604)|
